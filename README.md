@@ -38,3 +38,9 @@ The feature I use the most is the keyboard shortcut `Ctrl + Shift + P` . It brin
 0. [jsLogin](https://phi12ip.github.io/yuliya/0.jsLogin/):
 
     - First project. There is a folder with the same name with the code in it (:
+
+
+| Username      | Password  |
+|---------------|-----------|
+| yuliya        | password2 |
+| philip        | password1 |
