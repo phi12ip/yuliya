@@ -39,7 +39,7 @@ The feature I use the most is the keyboard shortcut `Ctrl + Shift + P` . It brin
 
     - First project. There is a folder with the same name with the code in it (:
 
-<center>
+<center style='width: 30vw'>
 Crednetials: 
 
 | Username      | Password  |
