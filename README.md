@@ -15,6 +15,7 @@ Credentials:
 | yuliya        | password2 |
 | philip        | password1 |
 
+---
 
 ## § Git :
 [Git Webpage](https://git-scm.com/)
@@ -30,6 +31,8 @@ If you have never used git before, [this is a great introduction.](https://www.f
 After learning the basics, [this is a good resource](https://www.atlassian.com/git) to get information on how to do other procedures. If you want to know more about Git and Github, I can tell you more. 
 
 There is also the [ProGit](https://git-scm.com/book/en/v2) book that is hosted online for free
+
+---
 
 ## § VS Code :
  [VS Code Webpage](https://code.visualstudio.com/)
