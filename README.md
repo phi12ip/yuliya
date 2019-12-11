@@ -6,7 +6,7 @@
 
     - First project. There is a folder with the same name with the code in it (:
 
-<center style='width: 30vw'>
+<center>
 Crednetials: 
 
 | Username      | Password  |
