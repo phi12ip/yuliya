@@ -1,6 +1,6 @@
 # Hey Yuliya!
 
-## Git:
+## § [Git](https://git-scm.com/):
 
 This repo is where we can share code. Its public, so you can clone a copy using git on the command line:
 ``` sh
@@ -11,6 +11,24 @@ If you have never used git before, [this is a great introduction.](https://www.f
 
 After learning the basics, [this is a good resource](https://www.atlassian.com/git) to get information on how to do other procedures. If you want to know more about Git and Github, I can tell you more. 
 
-## 0.jsLogin:
+There is also the [ProGit](https://git-scm.com/book/en/v2) book that is hosted online for free
 
-First project. There is a folder with the same name with the code in it (:
+## § [VS Code](https://code.visualstudio.com/):
+
+This is a great text editor/IDE that I use for everything. It can be extended by a ton of free Extensions availible inside of the application.
+
+I would recomdend getting these Extensions: 
+
+- Live Server
+- Better TOML
+- Prettier - Code formatter
+
+and there are tons of others for any language you can think of so browse around
+
+
+
+## § Projects
+
+0. jsLogin:
+
+    - First project. There is a folder with the same name with the code in it (:

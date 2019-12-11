@@ -22,8 +22,9 @@ function submitFunction(e) {
         }
     }
     if (found == false) { alert('Username or password is incorrect') }
-    else {
+    else {  
         let milliseconds = 3000;
+        // Set the three second timer
         setTimeout(() => window.location.href = 'welcome.html', milliseconds)
         console.log('Found');
     }
