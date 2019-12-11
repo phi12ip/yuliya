@@ -14,10 +14,10 @@ function submitFunction(e) {
     e.preventDefault();
     let found = false;
     let formUser = e.target.user.value.toLowerCase();
-    let formPass = e.target.pass.value.toLowerCase();
+    let formPass = e.target.pass.value;
     // Search through users array for username matching the value entered into the input field
     for (let i=0; i<users.length;i++) {
-        if ( users[i].username.toLowerCase() == formUser && users[i].password.toLowerCase() == formPass ) {
+        if ( users[i].username.toLowerCase() == formUser && users[i].password == formPass ) {
             found = users[i].username
         }
     }
