@@ -7,16 +7,13 @@
     - First project. There is a folder with the same name with the code in it (:
 
 
-<center>
-
-Crednetials: 
+Credentials: 
 
 | Username      | Password  |
 |---------------|-----------|
 | yuliya        | password2 |
 | philip        | password1 |
 
-</center>
 
 ## § Git :
 [Git Webpage](https://git-scm.com/)
