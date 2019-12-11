@@ -1,0 +1,29 @@
+let users = [
+    {
+        username: 'philip',
+        password: 'password1'
+    },
+    {
+        username: 'yuliya',
+        password: 'password2'
+    }
+];
+
+function submitFunction(e) {
+    // Prevent the default submit method of the <form> element
+    e.preventDefault();
+    let found = false;
+
+    // Search through users array for username matching the value entered into the input field
+    for (let i=0; i<users.length;i++) {
+        if ( users[i].username == e.target.user.value && users[i].password == e.target.pass.value ) {
+            found = users[i].username
+        }
+    }
+    if (found == false) { alert('Username or password is incorrect') }
+    else {
+        let milliseconds = 3000;
+        setTimeout(() => window.location.href = 'welcome.html', milliseconds)
+        console.log('Found');
+    }
+}
