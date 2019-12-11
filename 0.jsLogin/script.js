@@ -13,10 +13,11 @@ function submitFunction(e) {
     // Prevent the default submit method of the <form> element
     e.preventDefault();
     let found = false;
-
+    let formUser = e.target.user.value.toLower.toLowerCase();
+    let formPass = e.target.pass.value.toLowerCase();
     // Search through users array for username matching the value entered into the input field
     for (let i=0; i<users.length;i++) {
-        if ( users[i].username == e.target.user.value && users[i].password == e.target.pass.value ) {
+        if ( users[i].username.toLowerCase() == formUser && users[i].password.toLowerCase() == formPass ) {
             found = users[i].username
         }
     }
